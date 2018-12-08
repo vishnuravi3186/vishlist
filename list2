@@ -32,7 +32,7 @@ http://103.88.77.49:1935/sakthitv/sakthitv/playlist.m3u8
 http://103.88.77.49:1935/rasitv/rasitv/media_w446341085_2025.ts
 #EXTINF:-1,	MPTV
 http://209.58.177.126/mptvhls/mptv.m3u8
-#EXTINF:-1,	TAMIL
+#EXTINF:-1,	JAYAM
 http://209.58.160.82/livehls/stream.m3u8
 #EXTINF:-1,	SKY
 http://209.58.180.57/skytvhls/live.m3u8
@@ -52,13 +52,13 @@ http://103.88.77.49:1935/live/nandhanaatv/chunklist_w927518727.m3u8
 http://bmlive.net:1935/r_tirupurtv/tirupurtv/playlist.m3u8
 #EXTINF:-1,	STAR
 http://209.58.178.86/startvgymhls/live.m3u8
-#EXTINF:-1,	NTV
+#EXTINF:-1,	RAGAM
 http://209.58.164.4/ntvhls/ntv.m3u8
 #EXTINF:-1,	ARAMTV
 http://209.58.178.86/Arammhls/live.m3u8
 #EXTINF:-1,	SRIKRISHNA
 http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
-#EXTINF:-1,	JAYTV
+#EXTINF:-1,	JAITV
 http://103.88.77.49:1935/live/jay/playlist.m3u8
 #EXTINF:-1,	ABITV
 http://209.58.180.58/abitvpdyhls/abitvpdy.m3u8
@@ -82,7 +82,7 @@ http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/chunks.m3u8?nimblesessionid=9657563
 #EXTINF:-1,	JAWAHAR
 http://209.58.177.35/jawaharhls/live.m3u8
-#EXTINF:-1,	CINTHAMANI
+#EXTINF:-1,	JJTV
 http://livestream.5centscdn.com/cinthamani/dca69dd0388dd4bd2224037b684c86c3.sdp/index.m3u8
 #EXTINF:-1,	MNMUSIC
 http://mntv.livebox.co.in/musichls/live.m3u8
