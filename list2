@@ -90,8 +90,8 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1,	AARYATV
 http://account4.livebox.co.in/aaryaatvhls/live.m3u8
-#EXTINF:-1,	AGAMTV
-http://209.58.160.206/agamtvhls/live-12050.ts
+#EXTINF:0, group-title="Tamil",Agam TV
+http://209.58.160.206/agamtvhls/live.m3u8
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/8a/e9/3d/8ae93da24c1ce2546ad48991a4df5f4b.png" group-title="Entertainment",Deepam TV
 http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment",Akaram Gallata TV
@@ -104,3 +104,23 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Entertainment",Vani TV
 http://150.242.21.2/vanitv.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil Music
+https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
+#EXTINF:0, group-title="Tamil",IBC Tamil Comedy
+https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Peppers
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Raj Musix (Tamil)
+http://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Raj TV
+http://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",EET TV Canada
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Mughizh HD
+http://209.58.180.57/mugizhtvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",1Yes TV
+http://150.242.21.2/oneyes.m3u8
+#EXTINF:0, group-title="Tamil",Analai Express HD
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:0, group-title="Tamil",MGR TV HD
+http://livematrix.in:1935/live/mgrtv/index.m3u8
