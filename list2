@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK INTRO
-https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK ANTHEM
-https://www.dropbox.com/s/4vml0og02nh7ekn/INTROIPTV.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",YNWA
-https://www.dropbox.com/s/mfnqkiprmsldfr9/YNWA.mp4?dl=1
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",SUPERSOCCER
-http://210.210.155.35/uq2663/h/h135/01.m3u8
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",CNN HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",NET_TV HD
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Sports Cricket HD" tvg-logo="" group-title="OSN",OSN Sports Cricket HD
