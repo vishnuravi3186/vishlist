@@ -92,3 +92,15 @@ http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 http://account4.livebox.co.in/aaryaatvhls/live.m3u8
 #EXTINF:-1,	AGAMTV
 http://209.58.160.206/agamtvhls/live-12050.ts
+#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/8a/e9/3d/8ae93da24c1ce2546ad48991a4df5f4b.png" group-title="Entertainment",Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+#EXTINF:0, tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment",Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:0, tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2017/10/Netrikan-TV.jpg" group-title="Entertainment",NettriKann TV
+http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
+#EXTINF:0, tvg-logo="https://d2d7xd1owstlh.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png" group-title="Entertainment",Tamil Vision HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0, tvg-logo="https://www.tamilan24.com/assets/img/section/events.png" group-title="Entertainment",Tamilan24
+http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
+#EXTINF:0, tvg-logo="" group-title="Entertainment",Vani TV
+http://150.242.21.2/vanitv.m3u8
