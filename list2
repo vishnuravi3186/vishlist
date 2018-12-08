@@ -21,3 +21,74 @@ http://163.172.86.57:3135/B/2/index.m3u8
 http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:-1,	VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+
+#EXTINF:-1,	UTV
+http://account12.livebox.co.in/utvhls/live.m3u8
+#EXTINF:-1,	PALAR
+http://209.58.178.82/palartvhls/live.m3u8
+#EXTINF:-1,	SAKTHI
+http://103.88.77.49:1935/sakthitv/sakthitv/playlist.m3u8
+#EXTINF:-1,	RASITV
+http://103.88.77.49:1935/rasitv/rasitv/media_w446341085_2025.ts
+#EXTINF:-1,	MPTV
+http://209.58.177.126/mptvhls/mptv.m3u8
+#EXTINF:-1,	TAMIL
+http://209.58.160.82/livehls/stream.m3u8
+#EXTINF:-1,	SKY
+http://209.58.180.57/skytvhls/live.m3u8
+#EXTINF:-1,	QVASANTHAM
+http://209.58.180.56/qvasanthamhls/qvasantham.m3u8
+#EXTINF:-1,	ITVH
+http://209.58.177.4/itvhls/live.m3u8
+#EXTINF:-1,	CTN
+http://45.79.203.234:1935/ctntv/myStream/playlist.m3u8
+#EXTINF:-1,	VIDIYAL
+http://209.58.178.208/vidiyaltvhls/vidiyaltv.m3u8
+#EXTINF:-1,	STV
+http://bmlive.net:1935/r_stv/stvt/playlist.m3u8
+#EXTINF:-1,	NANDHANAA
+http://103.88.77.49:1935/live/nandhanaatv/chunklist_w927518727.m3u8
+#EXTINF:-1,	TIRUPUR
+http://bmlive.net:1935/r_tirupurtv/tirupurtv/playlist.m3u8
+#EXTINF:-1,	STAR
+http://209.58.178.86/startvgymhls/live.m3u8
+#EXTINF:-1,	NTV
+http://209.58.164.4/ntvhls/ntv.m3u8
+#EXTINF:-1,	ARAMTV
+http://209.58.178.86/Arammhls/live.m3u8
+#EXTINF:-1,	SRIKRISHNA
+http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+#EXTINF:-1,	JAYTV
+http://103.88.77.49:1935/live/jay/playlist.m3u8
+#EXTINF:-1,	ABITV
+http://209.58.180.58/abitvpdyhls/abitvpdy.m3u8
+#EXTINF:-1,	GSTAR
+http://209.58.180.138/gstarhls/live.m3u8
+#EXTINF:-1,	MAYATV
+http://209.58.180.138/mayatvhls/live.m3u8
+#EXTINF:-1,	JINTV
+http://103.88.77.49:1935/live/jintv/playlist.m3u8
+#EXTINF:-1,	ASMEDIA
+http://103.88.77.49:1935/asmedia/asmedia/chunklist_w1419149867.m3u8
+#EXTINF:-1,	HARITV
+http://51.68.174.113/haritvhls/live.m3u8
+#EXTINF:-1,	NTV
+http://185.105.4.244:1935/live/ntv/playlist.m3u8
+#EXTINF:-1,	AASAI
+http://209.58.180.53/osaihls/live.m3u8
+#EXTINF:-1,	VANAVIL
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1,	ABC
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/chunks.m3u8?nimblesessionid=9657563
+#EXTINF:-1,	JAWAHAR
+http://209.58.177.35/jawaharhls/live.m3u8
+#EXTINF:-1,	CINTHAMANI
+http://livestream.5centscdn.com/cinthamani/dca69dd0388dd4bd2224037b684c86c3.sdp/index.m3u8
+#EXTINF:-1,	MNMUSIC
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1,	MNTV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1,	AARYATV
+http://account4.livebox.co.in/aaryaatvhls/live.m3u8
+#EXTINF:-1,	AGAMTV
+http://209.58.160.206/agamtvhls/live-12050.ts
