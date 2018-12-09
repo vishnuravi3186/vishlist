@@ -140,3 +140,23 @@ http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playli
 http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8
 #EXTINF:0, group-title="Tamil",PAKALAVAN TV
 http://162.244.80.206:1935/live/pakalavantv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",MEENAKSHI TV
+http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8 -- meenakshi tv
+#EXTINF:0, group-title="Tamil",SURYA TV
+http://162.244.80.206:1935/live2/suryatv/media_w1123267892_1465.ts
+#EXTINF:0, group-title="Tamil",KING TV
+http://45.79.203.234:1935/maxwell2/mystream/media_w625969100_103.ts - king tv
+#EXTINF:0, group-title="Tamil",SURYAHD
+http://209.58.180.49/suriyatvcglhls/live-3395.ts
+#EXTINF:0, group-title="Tamil",SANGAMAM TV
+http://livematrix.in:1935/live/sangamamtv/media_w616547352_1898.ts
+#EXTINF:0, group-title="Tamil",SANA TV
+http://account11.livebox.co.in/Sanatvhls/live-591.ts
+#EXTINF:0, group-title="Tamil",AKARAM TV
+http://akaram.zecast.net/akaram-live/akaramnew2/media_w1512093935_7043.ts?nimblesessionid=122981288
+#EXTINF:0, group-title="Tamil",SHREE TV
+http://livematrix.in:1935/shreetv/shreetv/media_w2025822701_14373.ts
+#EXTINF:0, group-title="Tamil",SKY TV
+http://209.58.180.57/skytvhls/live-2155.ts
+#EXTINF:0, group-title="Tamil",KTNPLUS TV
+http://account11.livebox.co.in/ktnplushls/ktnplus-366.ts
