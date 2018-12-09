@@ -30,6 +30,8 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: TUNES 6 
 http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Tamil",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1,	UTV
 http://account12.livebox.co.in/utvhls/live.m3u8
 #EXTINF:-1,	PALAR
@@ -84,7 +86,7 @@ http://51.68.174.113/haritvhls/live.m3u8
 http://185.105.4.244:1935/live/ntv/playlist.m3u8
 #EXTINF:-1,	AASAI
 http://209.58.180.53/osaihls/live.m3u8
-#EXTINF:-1,	VANAVIL
+#EXTINF:0, group-title="Tamil",Vanavil Plus TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 #EXTINF:-1,	ABC
 http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/chunks.m3u8?nimblesessionid=9657563
