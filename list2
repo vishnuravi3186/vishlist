@@ -24,6 +24,8 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
 #EXTINF:-1,	VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: TUNES 6 
+http://5k8q8pjzdy4v-hls-live.wmncdn.net/717/tunes61/live1.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,	UTV
 http://account12.livebox.co.in/utvhls/live.m3u8
 #EXTINF:-1,	PALAR
