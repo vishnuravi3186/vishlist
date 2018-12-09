@@ -3,6 +3,8 @@
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 #EXTINF:-1,IN: Sony Six HD
 http://bestbuyiptv.link:6969/live/firetab092279@outlook.com/wBDQDU8WjD/17102.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO CRICKET HD MY
+http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18629
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Sports Cricket HD" tvg-logo="" group-title="OSN",OSN Sports Cricket HD
 http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/6009.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" OSN SPORTS CRICKET HD" tvg-logo="" group-title="OSN",OSN SPORTS CRICKET HD
@@ -21,11 +23,19 @@ https://stream.wicket.pw/app/sonysixhd.m3u8
 http://163.172.86.57:3135/B/2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TEN CRICKET
 http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS CRICKET
+http://gorilladick4.us:2086/live/irishboy/irishboy/997.ts
+#EXTINF:-1,FLOW SPORTS 
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group-title="POP" tvg-id="HIT TV" tvg-logo="https://www.img.in.th/images/bbd89e8de4c048002771a3c48d12652c.jpg",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VAANAVIL HD MY
+http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18618
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VINMEEN HD MY
+http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18617
 #EXTINF:-1,	VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: TUNES 6 
