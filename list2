@@ -134,3 +134,9 @@ http://150.242.21.2/oneyes.m3u8
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:0, group-title="Tamil",MGR TV HD
 http://livematrix.in:1935/live/mgrtv/index.m3u8
+#EXTINF:0, group-title="Tamil",THIRUMALAI TV
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
+#EXTINF:0, group-title="Tamil",MEENAKSHI TV
+http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",PAKALAVAN TV
+http://162.244.80.206:1935/live/pakalavantv/playlist.m3u8
