@@ -140,7 +140,7 @@ http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playli
 http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8
 #EXTINF:0, group-title="Tamil",PAKALAVAN TV
 http://162.244.80.206:1935/live/pakalavantv/playlist.m3u8
-#EXTINF:0, group-title="Tamil",ENGADA TVhttp://103.88.77.49:1935/rplustv/rplustv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",ENGADA TV
 http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",RPLUS TV
 http://103.88.77.49:1935/rplustv/rplustv/playlist.m3u8
