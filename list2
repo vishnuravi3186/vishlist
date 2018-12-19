@@ -9,33 +9,23 @@ http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18629
 http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/6009.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" OSN SPORTS CRICKET HD" tvg-logo="" group-title="OSN",OSN SPORTS CRICKET HD
 http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/18009.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN 13 HD" tvg-logo="" group-title="BN SPORTS",BEIN 13 HD
-http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/9123.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 13 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 13 HD
-http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/18061.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, WILLOW HD
 http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
-#EXTINF:-1, BT SPORT 2 HD
-https://stream.wicket.pw/app/sonysixhd.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 2
-http://163.172.86.57:3135/B/2/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TEN CRICKET
-http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS CRICKET
-http://gorilladick4.us:2086/live/irishboy/irishboy/997.ts
 #EXTINF:-1,FLOW SPORTS 
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group-title="POP" tvg-id="HIT TV" tvg-logo="https://www.img.in.th/images/bbd89e8de4c048002771a3c48d12652c.jpg",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONYPIX
+http://62.210.78.182:25461/live/hindii/alu/6.ts
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",HBO
+http://62.210.78.182:25461/live/hindii/alu/7.ts
+#EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",&FLIXHD
+http://z5ams.akamaized.net/andflixhd/track-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VAANAVIL HD MY
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18618
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VINMEEN HD MY
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18617
 #EXTINF:-1,	VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: TUNES 6 
@@ -150,23 +140,47 @@ http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playli
 http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8
 #EXTINF:0, group-title="Tamil",PAKALAVAN TV
 http://162.244.80.206:1935/live/pakalavantv/playlist.m3u8
-#EXTINF:0, group-title="Tamil",MEENAKSHI TV
-http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8 -- meenakshi tv
-#EXTINF:0, group-title="Tamil",SURYA TV
-http://162.244.80.206:1935/live2/suryatv/media_w1123267892_1465.ts
-#EXTINF:0, group-title="Tamil",KING TV
-http://45.79.203.234:1935/maxwell2/mystream/media_w625969100_103.ts - king tv
-#EXTINF:0, group-title="Tamil",SURYAHD
-http://209.58.180.49/suriyatvcglhls/live-3395.ts
-#EXTINF:0, group-title="Tamil",SANGAMAM TV
-http://livematrix.in:1935/live/sangamamtv/media_w616547352_1898.ts
-#EXTINF:0, group-title="Tamil",SANA TV
-http://account11.livebox.co.in/Sanatvhls/live-591.ts
+#EXTINF:0, group-title="Tamil",ENGADA TVhttp://103.88.77.49:1935/rplustv/rplustv/playlist.m3u8
+http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",RPLUS TV
+http://103.88.77.49:1935/rplustv/rplustv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SUPER TV
+http://185.105.4.244:1935/live/supertv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",MAGA TV
+http://209.58.177.126/magatvhls/magatv.m3u8
 #EXTINF:0, group-title="Tamil",AKARAM TV
-http://akaram.zecast.net/akaram-live/akaramnew2/media_w1512093935_7043.ts?nimblesessionid=122981288
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:0, group-title="Tamil",VAANAVIL TV
+http://jkzqgw3zrm9o-hls-live.wmncdn.net/969/vaanaviltv/live.stream/track-v1a1/mono.m3u8
 #EXTINF:0, group-title="Tamil",SHREE TV
-http://livematrix.in:1935/shreetv/shreetv/media_w2025822701_14373.ts
-#EXTINF:0, group-title="Tamil",SKY TV
-http://209.58.180.57/skytvhls/live-2155.ts
+http://103.88.77.49:1935/shreetv/shreetv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",A1 TV
+http://185.105.4.244:1935/live/a1p/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SHAKTHI TV
+http://stream.mslive.in:1935/shakthitv/gb1051/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SAKTHI TV
+http://103.88.77.49:1935/sakthitv/sakthitv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",KTNPLUS TV
-http://account11.livebox.co.in/ktnplushls/ktnplus-366.ts
+http://account11.livebox.co.in/ktnplushls/ktnplu.m3u8
+#EXTINF:0, group-title="Tamil",VELUR TV
+http://209.58.177.206/velurtvhls/velurtv.m3u8
+#EXTINF:0, group-title="Tamil",BAMAHD TV
+http://103.88.77.49:1935/bamahd/bamahd/playlist.m3u8
+#EXTINF:0, group-title="Tamil",AKARAM MIX TV
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+#EXTINF:0, group-title="Tamil",DANMUSIC TV
+http://askmedia.livebox.co.in/DANMusichls/danmusic.m3u8
+#EXTINF:0, group-title="Tamil",SHIVAJI TV
+http://g2qd3bway7an-hls-live.5centscdn.com/1197/cinthamani/8f1baa420361b79fbe05a7f1de905a91.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Tamil",KING TV
+http://45.79.203.234:1935/maxwell2/myStream/chunklist_w1266762081.m3u8
+#EXTINF:0, group-title="Tamil",STARVIJA TV
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+#EXTINF:0, group-title="Tamil",JAY TV
+http://103.88.77.49:1935/live/jaytv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",UTV TV
+http://account12.livebox.co.in/utvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",UTVHD TV
+http://www.ustream.tv/embed/23625152?html5ui
+
+
