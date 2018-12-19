@@ -20,11 +20,11 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONYPIX
-http://62.210.78.182:25461/live/hindii/alu/6.ts
+http://62.210.78.182:25461/live/hndii/alu/6.ts
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",HBO
-http://62.210.78.182:25461/live/hindii/alu/7.ts
+http://62.210.78.182:25461/live/hndii/alu/7.ts
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",&FLIXHD
-http://z5ams.akamaized.net/andflixhd/track-v1a1/index.m3u8
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,	VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
