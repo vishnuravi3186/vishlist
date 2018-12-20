@@ -176,9 +176,13 @@ http://45.79.203.234:1935/maxwell2/myStream/chunklist_w1266762081.m3u8
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:0, group-title="Tamil",JAY TV
 http://103.88.77.49:1935/live/jaytv/playlist.m3u8
-#EXTINF:0, group-title="Tamil",UTV TV
-http://account12.livebox.co.in/utvhls/live.m3u8
-#EXTINF:0, group-title="Tamil",UTVHD TV
-http://www.ustream.tv/embed/23625152?html5ui
+#EXTINF:0, group-title="Tamil",SURYA TV
+http://162.244.80.206:1935/live2/suryatv/chunklist_w1434135818.m3u8
+#EXTINF:0, group-title="Tamil",CSK TV
+http://185.105.4.215:1935/live/csktv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SANATVHD TV
+http://account11.livebox.co.in/Sanatvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",DANTAMIL
+http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
 
 
