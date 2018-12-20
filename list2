@@ -36,10 +36,8 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 http://account12.livebox.co.in/utvhls/live.m3u8
 #EXTINF:-1,	PALAR
 http://209.58.178.82/palartvhls/live.m3u8
-#EXTINF:-1,	SAKTHI
-http://103.88.77.49:1935/sakthitv/sakthitv/playlist.m3u8
 #EXTINF:-1,	RASITV
-http://103.88.77.49:1935/rasitv/rasitv/media_w446341085_2025.ts
+http://103.88.77.49:1935/rasitv/rasitv/playlist.m3u8
 #EXTINF:-1,	MPTV
 http://209.58.177.126/mptvhls/mptv.m3u8
 #EXTINF:-1,	JAYAM
