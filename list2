@@ -1,28 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX
-http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
-#EXTINF:-1,IN: Sony Six HD
-http://bestbuyiptv.link:6969/live/firetab092279@outlook.com/wBDQDU8WjD/17102.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO CRICKET HD MY
-http://restream.geniptv.com:8080/frenchdubai_new/XC3cdx1v443/18629
-#EXTINF:-1 tvg-ID="" tvg-name="OSN Sports Cricket HD" tvg-logo="" group-title="OSN",OSN Sports Cricket HD
-http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/6009.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name=" OSN SPORTS CRICKET HD" tvg-logo="" group-title="OSN",OSN SPORTS CRICKET HD
-http://bestbuyiptv.link:6969/live/husstesthuss1+8@gmail.com/xBlQ9heh3b/18009.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
-#EXTINF:-1, WILLOW HD
-http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
 #EXTINF:-1,FLOW SPORTS 
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group-title="POP" tvg-id="HIT TV" tvg-logo="https://www.img.in.th/images/bbd89e8de4c048002771a3c48d12652c.jpg",HIT TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONYPIX
 http://62.210.78.182:25461/live/hndii/alu/6.ts
+#EXTVLCOPT:http-user-agent=dekhantuodiare
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",HBO
 http://62.210.78.182:25461/live/hndii/alu/7.ts
+#EXTVLCOPT:http-user-agent=dekhantuodiare
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",&FLIXHD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
@@ -103,15 +93,13 @@ http://209.58.160.206/agamtvhls/live.m3u8
 #EXTINF:0, tvg-logo="https://i.pinimg.com/originals/8a/e9/3d/8ae93da24c1ce2546ad48991a4df5f4b.png" group-title="Entertainment",Deepam TV
 http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
 #EXTINF:0, tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment",Akaram Gallata TV
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2017/10/Netrikan-TV.jpg" group-title="Entertainment",NettriKann TV
 http://45.79.203.234:1935/netrikgunhd/myStream/index.m3u8
 #EXTINF:0, tvg-logo="https://d2d7xd1owstlh.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png" group-title="Entertainment",Tamil Vision HD
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:0, tvg-logo="https://www.tamilan24.com/assets/img/section/events.png" group-title="Entertainment",Tamilan24
 http://45.79.203.234:1935/tamilan24/myStream/chunklist.m3u8
-#EXTINF:0, tvg-logo="" group-title="Entertainment",Vani TV
-http://150.242.21.2/vanitv.m3u8
 #EXTINF:0, group-title="Tamil",IBC Tamil Music
 https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
 #EXTINF:0, group-title="Tamil",IBC Tamil Comedy
@@ -159,7 +147,7 @@ http://stream.mslive.in:1935/shakthitv/gb1051/playlist.m3u8
 #EXTINF:0, group-title="Tamil",SAKTHI TV
 http://103.88.77.49:1935/sakthitv/sakthitv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",KTNPLUS TV
-http://account11.livebox.co.in/ktnplushls/ktnplu.m3u8
+http://account11.livebox.co.in/ktnplushls/ktnplus.m3u8
 #EXTINF:0, group-title="Tamil",VELUR TV
 http://209.58.177.206/velurtvhls/velurtv.m3u8
 #EXTINF:0, group-title="Tamil",BAMAHD TV
@@ -184,5 +172,38 @@ http://185.105.4.215:1935/live/csktv/playlist.m3u8
 http://account11.livebox.co.in/Sanatvhls/live.m3u8
 #EXTINF:0, group-title="Tamil",DANTAMIL
 http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
-
+#EXTINF:0, group-title="Tamil",Bharathi
+http://13.250.185.218/hls/bharathi.m3u8
+#EXTINF:0, group-title="Tamil",GRTV
+http://livematrix.in:1935/grtv/grtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",AMMAN TV
+http://162.244.80.206:1935/ammantv/live/playlist.m3u8
+#EXTINF:0, group-title="Tamil",VENGHAI TV
+http://209.58.177.4/shinehls/live.m3u8
+#EXTINF:0, group-title="Tamil",BSD TV
+http://209.58.177.4/bsdtvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",VAIGHAI
+http://account23.livebox.co.in/vaigaihls/live.m3u8
+#EXTINF:0, group-title="Tamil",Royal
+http://g2qd3bway7an-hls-live.5centscdn.com/1197/cinthamani/696a6871d8061c62c85cf7075e04f07f.sdp/index.m3u8
+#EXTINF:0, group-title="Tamil",ROYAL
+http://209.58.177.210/royalmediahls/live.m3u8
+#EXTINF:0, group-title="Tamil",THAAI
+http://185.105.4.244/live/thaitv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SUPER
+http://162.244.80.206:1935/live/supertv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",MICHI
+http://account26.livebox.co.in/michitvhls/michitv.m3u8
+#EXTINF:0, group-title="Tamil",SURYAHD
+http://209.58.180.49/suriyatvcglhls/live.m3u8
+#EXTINF:0, group-title="Tamil",SRTV
+http://210.18.155.135:1935/live/srtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",sangamamtv
+http://103.88.77.49:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Jaffna
+http://173.236.10.10:1935/self/self/playlist.m3u8
+#EXTINF:0, group-title="Tamil",STS
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Vasanthamsri
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 
