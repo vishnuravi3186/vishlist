@@ -7,12 +7,12 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTVLCOPT:http-user-agent=dekhantuodiare
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONYPIX
 http://62.210.78.182:25461/live/hndii/alu/6.ts
 #EXTVLCOPT:http-user-agent=dekhantuodiare
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",HBO
 http://62.210.78.182:25461/live/hndii/alu/7.ts
-#EXTVLCOPT:http-user-agent=dekhantuodiare
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",&FLIXHD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
@@ -130,8 +130,6 @@ http://162.244.80.206:1935/live/pakalavantv/playlist.m3u8
 http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",RPLUS TV
 http://103.88.77.49:1935/rplustv/rplustv/playlist.m3u8
-#EXTINF:0, group-title="Tamil",SUPER TV
-http://185.105.4.244:1935/live/supertv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",MAGA TV
 http://209.58.177.126/magatvhls/magatv.m3u8
 #EXTINF:0, group-title="Tamil",AKARAM TV
