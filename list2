@@ -15,6 +15,8 @@ http://62.210.78.182:25461/live/hndii/alu/6.ts
 http://62.210.78.182:25461/live/hndii/alu/7.ts
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",&FLIXHD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,	FOOD
+http://192.99.149.103:8080/mtl_ca/108_CW_NewYork_3236_208/index.m3u8
 
 #EXTINF:-1,	VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
@@ -202,6 +204,9 @@ http://103.88.77.49:1935/live/sangamamtv/playlist.m3u8
 http://173.236.10.10:1935/self/self/playlist.m3u8
 #EXTINF:0, group-title="Tamil",STS
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/playlist.m3u8
-#EXTINF:0, group-title="Tamil",Vasanthamsri
+#EXTINF:0, group-title="Tamil",Vasanthamsrihttp://54.39.106.158:80/tamil/STARVIJAYHDUS/index.m3u8
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-
+#EXTINF:0, group-title="Tamil",Vija
+http://54.39.106.158:80/tamil/STARVIJAYHDUS/index.m3u8
+#EXTINF:0, group-title="Tamil",color
+http://54.39.106.158:80/tamil/COLORSTAMILHDUS/index.m3u8
