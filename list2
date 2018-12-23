@@ -204,7 +204,7 @@ http://103.88.77.49:1935/live/sangamamtv/playlist.m3u8
 http://173.236.10.10:1935/self/self/playlist.m3u8
 #EXTINF:0, group-title="Tamil",STS
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/playlist.m3u8
-#EXTINF:0, group-title="Tamil",Vasanthamsrihttp://54.39.106.158:80/tamil/STARVIJAYHDUS/index.m3u8
+#EXTINF:0, group-title="Tamil",Vasanthamsri
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",Vija
 http://54.39.106.158:80/tamil/STARVIJAYHDUS/index.m3u8
