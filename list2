@@ -141,7 +141,7 @@ http://jkzqgw3zrm9o-hls-live.wmncdn.net/969/vaanaviltv/live.stream/track-v1a1/mo
 #EXTINF:0, group-title="Tamil",SHREE TV
 http://103.88.77.49:1935/shreetv/shreetv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",A1 TV
-http://185.105.4.244:1935/live/a1p/playlist.m3u8
+http://cdn.live5.in:1935/live/a1p/playlist.m3u8
 #EXTINF:0, group-title="Tamil",SHAKTHI TV
 http://stream.mslive.in:1935/shakthitv/gb1051/playlist.m3u8
 #EXTINF:0, group-title="Tamil",SAKTHI TV
@@ -210,3 +210,27 @@ http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 http://54.39.106.158:80/tamil/STARVIJAYHDUS/index.m3u8
 #EXTINF:0, group-title="Tamil",color
 http://54.39.106.158:80/tamil/COLORSTAMILHDUS/index.m3u8
+#EXTINF:0, group-title="Tamil",Roja
+http://91.134.241.131/rojahls/roja.m3u8
+#EXTINF:0, group-title="Tamil",CITYTV
+http://209.58.177.73/citytvhls/live.m3u8
+#EXTINF:0, group-title="Tamil",SPIZETV
+http://account12.livebox.co.in/spizetvhls/spizetv.m3u8
+#EXTINF:0, group-title="Tamil",SSTV
+http://livematrix.in:1935/sstv/sstv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SKTAT
+http://ealing.zecast.net/ealing-live-2/sktat.stream/chunklist_w1624310979.m3u8
+#EXTINF:0, group-title="Tamil",IBC BAKTHI
+https://59299831b66d0.streamlock.net/ibc-bakthi/bakthi/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:0, group-title="Tamil",SIRIPPOLI
+http://acv.asianetmobiletvplus.com/channels/sirippoli_wygpmrvgxmiqsoggcodgtlapeaidkncb/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Murasu
+http://acv.asianetmobiletvplus.com/channels/murasu_lvdtuywsqtouxjyahchfgkstxkllroel/chunklist.m3u8
+#EXTINF:0, group-title="Tamil",Isaiaruvi
+http://acv.asianetmobiletvplus.com/channels/isaiaruvi_gvrkulcfwmgiiayfrlmcorerghfvjgrf/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Aditya
+https://ylive28-i.akamaihd.net/hls/live/690701/adityatv/adityatv/playlist.m3u8
+#EXTINF:0, group-title="Tamil",Old
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
