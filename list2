@@ -249,3 +249,16 @@ https://ylive28-i.akamaihd.net/hls/live/690701/adityatv/adityatv/playlist.m3u8
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
 #EXTINF:0, group-title="Tamil",SunMsic
 http://54.39.106.158:80/tamil/SUNMUSICHDUS/index.m3u8
+#EXTINF:0, group-title="Tamil",Sun
+http://54.39.106.158:80/tamil/SUNTVHDUS/index.m3u8
+#EXTINF:0, group-title="Tamil",K
+http://54.39.106.158:80/tamil/KTVHD/index.m3u8
+#EXTINF:0, group-title="Tamil",Sun
+http://54.39.106.158:80/tamil/SUNTVHD/index.m3u8
+#EXTINF:0, group-title="Tamil",SunMsic
+http://54.39.106.158:80/tamil/SUNMUSICHD/index.m3u8
+#EXTINF:0, group-title="Tamil",Raj
+http://54.39.106.158:80/tamil/RAJTV/index.m3u8
+#EXTINF:0, group-title="Tamil",RajMsic
+http://54.39.106.158:80/tamil/RAJMUSIC/index.m3u8
+
