@@ -247,3 +247,5 @@ http://acv.asianetmobiletvplus.com/channels/isaiaruvi_gvrkulcfwmgiiayfrlmcorergh
 https://ylive28-i.akamaihd.net/hls/live/690701/adityatv/adityatv/playlist.m3u8
 #EXTINF:0, group-title="Tamil",Old
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:0, group-title="Tamil",SunMsic
+http://54.39.106.158:80/tamil/SUNMUSICHDUS/index.m3u8
