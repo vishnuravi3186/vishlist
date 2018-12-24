@@ -3,6 +3,14 @@
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1,FLOW SPORTS 
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1, SONY SIX HD
+http://163.172.86.57:3135/Jio/Cricket/index.m3u8
+#EXTINF:-1, SONY SIX HD
+http://163.172.218.205:8081/Six/HD/index.m3u8
+#EXTINF:-1, OSN SPORTS HD CRICKET
+http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
+#EXTINF:-1, OSN SPORTS HD CRICKET
+http://163.172.86.59:3135/osn/Cr/index.m3u8
 #EXTINF:-1 group-title="POP" tvg-id="HIT TV" tvg-logo="https://www.img.in.th/images/bbd89e8de4c048002771a3c48d12652c.jpg",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",SONY MOV
@@ -15,6 +23,11 @@ http://62.210.78.182:25461/live/hndii/alu/6.ts
 http://62.210.78.182:25461/live/hndii/alu/7.ts
 #EXTINF:-1, tvg-logo="https://images.mypadtv.com/one.jpg", group-title="MOVIE",&FLIXHD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+
 #EXTINF:-1,	FOOD
 http://192.99.149.103:8080/mtl_ca/108_CW_NewYork_3236_208/index.m3u8
 
